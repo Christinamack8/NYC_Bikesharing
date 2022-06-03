@@ -7,16 +7,25 @@
 * How many trips are taken by the hour for each day of the week, for all riders and genders.
 * A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender.
 
+### Checkout Time for User:
 
 ![Screen shot 1](https://user-images.githubusercontent.com/95730183/171906333-10c6132e-3533-4ef5-9127-0fc2357e5c45.png)
 
 
+### Checkout Time by Gender:
+
 ![Screen shot 2](https://user-images.githubusercontent.com/95730183/171906429-4d4e2785-d428-42cb-96b8-041fc8dbcc55.png)
 
+### Weekday Trips by hour:
 
 ![Screen shot 3](https://user-images.githubusercontent.com/95730183/171906512-56dd452a-333e-4626-a6b8-62d7835ae0d0.png)
 
+
+### Weekday Trips by Gender/Hour:
+
 ![Screen shot 4](https://user-images.githubusercontent.com/95730183/171906552-fdc40b2e-0941-485e-865e-fa77e695f87a.png)
 
+
+### User Trips by Gender/Weekday:
 
 ![Screen shot 5](https://user-images.githubusercontent.com/95730183/171906694-b423065d-83b0-4a89-bbfa-e3f2f9a588be.png)
