@@ -35,3 +35,9 @@
 
 https://public.tableau.com/app/profile/christina.mackiewicz/viz/NYCBikeSharing_16542742847200/NYCCitibikeAnalysis?publish=yes
 
+
+<img width="975" alt="Screen Shot 2022-06-03 at 10 56 17 AM" src="https://user-images.githubusercontent.com/95730183/171910927-431048ef-dbeb-4a47-accc-7b4fe4bb8cd7.png">
+
+
+## Summary
+
