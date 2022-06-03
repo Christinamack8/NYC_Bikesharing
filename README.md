@@ -9,7 +9,7 @@
 
 ### Checkout Time for User:
 
-![Screen shot 1]
+![image](https://user-images.githubusercontent.com/95730183/171910200-d8c98805-19ea-4ae9-ac60-00a1833910e2.png)
 
 
 ### Checkout Time by Gender:
@@ -32,4 +32,6 @@
 
 
 ## Create a Story and Report for the Final Presentation
+
+https://public.tableau.com/app/profile/christina.mackiewicz/viz/NYCBikeSharing_16542742847200/NYCCitibikeAnalysis?publish=yes
 
