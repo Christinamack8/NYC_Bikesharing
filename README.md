@@ -41,11 +41,11 @@ https://public.tableau.com/app/profile/christina.mackiewicz/viz/NYCBikeSharing_1
 
 ## Summary
 
-The results show the bike sharing service in New York was high during the month of August 2019.
-Most of the rides were in Manhattan Island, taken by male users during rush hours. This implies that Citi Bike services are used as an alternative to public transportation by commuting workers.
+The results showed that male users used bike share the most in warmer weather during rush hour.
+This implies that Citi Bike services are used as an alternative to public transportation by commuting workers.
 
 
 Additional analysis:
 
 Finding out how far users had to walk to a bike share and if that determined their usage.
-If there is a correlation between temperature and using bike share.
+If there is a correlation between at what temperature a user would not use bike share.
