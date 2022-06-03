@@ -9,7 +9,7 @@
 
 ### Checkout Time for User:
 
-![Screen shot 1](https://user-images.githubusercontent.com/95730183/171906333-10c6132e-3533-4ef5-9127-0fc2357e5c45.png)
+![Screen shot 1]
 
 
 ### Checkout Time by Gender:
@@ -29,3 +29,7 @@
 ### User Trips by Gender/Weekday:
 
 ![Screen shot 5](https://user-images.githubusercontent.com/95730183/171906694-b423065d-83b0-4a89-bbfa-e3f2f9a588be.png)
+
+
+## Create a Story and Report for the Final Presentation
+
