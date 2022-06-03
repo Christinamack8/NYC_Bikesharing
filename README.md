@@ -1,6 +1,13 @@
 # NYC_Bikesharing
 
 
+## Using Tableau, create visualizations that show:
+
+* How long bikes are checked out for all riders and genders.
+* How many trips are taken by the hour for each day of the week, for all riders and genders.
+* A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender.
+
+
 ![Screen shot 1](https://user-images.githubusercontent.com/95730183/171906333-10c6132e-3533-4ef5-9127-0fc2357e5c45.png)
 
 
